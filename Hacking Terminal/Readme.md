@@ -16,7 +16,7 @@ It’s a front-end only simulation — no backend, no real hacking.
 To run the simulator:
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/<Yasir Awaan>/<Hacking-Terminal-Simulator>.git
    cd <repo-name>
 Open index.html in your browser. That’s it — no setup needed.
 
